@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1646913484105,
+      "title": "tes",
+      "body": "tes"
+    },
+    {
+      "userId": 1,
+      "id": 1647219103504,
+      "title": "Haloo",
+      "body": "haloo"
+    },
+    {
+      "userId": 1,
+      "id": 1683927765961,
+      "title": "serius amat bang",
+      "body": "wkwkwkwkwkwk"
+    },
+    {
+      "userId": 1,
+      "id": 1683979351366,
+      "title": "Sejarah",
+      "body": "Liverpool 7 - 0 Manchester United\nKlasemen Sementara Sejarah Selamanya"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
